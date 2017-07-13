@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "385634190606",
+    "firebase_url": "https://anta40firebase.firebaseio.com",
+    "project_id": "anta40firebase",
+    "storage_bucket": "anta40firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385634190606:android:f3c478e14848e0e0",
+        "android_client_info": {
+          "package_name": "net.devbyzero.app.anta40firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385634190606-2lnsgaupmfil30roanvnmvkprslkddd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9bsw5KtPivc7S7QAc05kxmqowLd9cOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
